@@ -56,5 +56,5 @@ body {
 }
 
 body {
-    background: bisque;
+    background-image: linear-gradient(-20deg, #762b57 0%, #4e4376 100%);
 }
